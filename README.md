@@ -144,7 +144,3 @@ Estado actual:
 - CORS esta abierto para desarrollo con Expo.
 - Controladores RESTful listos para autenticacion, usuarios, estados de animo y chat IA.
 - No se incluyen carpetas generadas como `bin`, `obj` o `.vs` en el repositorio.
-
-## Nota Tecnica
-
-Durante la compilacion puede aparecer una advertencia `NU1903` asociada a `Microsoft.OpenApi` como dependencia transitoria. El proyecto se mantiene compilable con `Microsoft.AspNetCore.OpenApi` y listo para desarrollo local.
