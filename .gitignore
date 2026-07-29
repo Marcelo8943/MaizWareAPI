@@ -1,0 +1,10 @@
+﻿.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.rsuser
+*.log
+*.tmp
+TestResults/
+.vscode/
